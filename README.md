@@ -1,0 +1,1 @@
+I've developed an interactive Netflix Dashboard that compiles and presents a summary of movie and TV series categories. This serves as an introductory project, offering insights derived from the data provided in the .csv file.
